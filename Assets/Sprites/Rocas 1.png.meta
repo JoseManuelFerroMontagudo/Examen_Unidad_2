@@ -1,0 +1,4433 @@
+fileFormatVersion: 2
+guid: 954a052acf1db7a4aa7dd6916ca8ff4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2990549803333357545
+    second: Rocas 1_0
+  - first:
+      213: -4014431301059932305
+    second: Rocas 1_1
+  - first:
+      213: -2284023417419061751
+    second: Rocas 1_2
+  - first:
+      213: -4383395722254624231
+    second: Rocas 1_3
+  - first:
+      213: 4572061130431231566
+    second: Rocas 1_4
+  - first:
+      213: -5999668717222096118
+    second: Rocas 1_5
+  - first:
+      213: -4503243591552085932
+    second: Rocas 1_6
+  - first:
+      213: 733764654431601521
+    second: Rocas 1_7
+  - first:
+      213: -3786048089608606194
+    second: Rocas 1_8
+  - first:
+      213: -6092088768334496970
+    second: Rocas 1_9
+  - first:
+      213: 1598456932168405668
+    second: Rocas 1_10
+  - first:
+      213: 3398127240668871210
+    second: Rocas 1_11
+  - first:
+      213: -3823101610050322053
+    second: Rocas 1_12
+  - first:
+      213: -5463345907440452483
+    second: Rocas 1_13
+  - first:
+      213: 8683626897760903926
+    second: Rocas 1_14
+  - first:
+      213: -62627182020559309
+    second: Rocas 1_15
+  - first:
+      213: 8589381268985897900
+    second: Rocas 1_16
+  - first:
+      213: 1374457217622336927
+    second: Rocas 1_17
+  - first:
+      213: 4895537935155671630
+    second: Rocas 1_18
+  - first:
+      213: 8125571905449340108
+    second: Rocas 1_19
+  - first:
+      213: -4979292397200425320
+    second: Rocas 1_20
+  - first:
+      213: -6216156955258583135
+    second: Rocas 1_21
+  - first:
+      213: 7785269718580352824
+    second: Rocas 1_22
+  - first:
+      213: -5691642935562665083
+    second: Rocas 1_23
+  - first:
+      213: -1374651110584103878
+    second: Rocas 1_24
+  - first:
+      213: 5338425840320669720
+    second: Rocas 1_25
+  - first:
+      213: -5080549424561585467
+    second: Rocas 1_26
+  - first:
+      213: 3223239149859304752
+    second: Rocas 1_27
+  - first:
+      213: -6888902907453255716
+    second: Rocas 1_28
+  - first:
+      213: -2004410314579042350
+    second: Rocas 1_29
+  - first:
+      213: -8681161537458913543
+    second: Rocas 1_30
+  - first:
+      213: 5217435070583785259
+    second: Rocas 1_31
+  - first:
+      213: 2581102962700317546
+    second: Rocas 1_32
+  - first:
+      213: 4564671178614229321
+    second: Rocas 1_33
+  - first:
+      213: -5914610212618198765
+    second: Rocas 1_34
+  - first:
+      213: 1270902442900864475
+    second: Rocas 1_35
+  - first:
+      213: -4893884194722426970
+    second: Rocas 1_36
+  - first:
+      213: -4980434981429335304
+    second: Rocas 1_37
+  - first:
+      213: 7672574221936093626
+    second: Rocas 1_38
+  - first:
+      213: -954585026730492717
+    second: Rocas 1_39
+  - first:
+      213: -8187402526173313750
+    second: Rocas 1_40
+  - first:
+      213: -5877578834595282657
+    second: Rocas 1_41
+  - first:
+      213: 2044969030001184065
+    second: Rocas 1_42
+  - first:
+      213: 6936377029596552451
+    second: Rocas 1_43
+  - first:
+      213: 4803321480725274554
+    second: Rocas 1_44
+  - first:
+      213: 7024502240591815148
+    second: Rocas 1_45
+  - first:
+      213: -6169504242971645582
+    second: Rocas 1_46
+  - first:
+      213: -7568162135256362948
+    second: Rocas 1_47
+  - first:
+      213: 2152714184933212385
+    second: Rocas 1_48
+  - first:
+      213: 5407730985288486013
+    second: Rocas 1_49
+  - first:
+      213: -3457194569981285646
+    second: Rocas 1_50
+  - first:
+      213: -5738424989717291921
+    second: Rocas 1_51
+  - first:
+      213: -5816504615307850094
+    second: Rocas 1_52
+  - first:
+      213: 6467956079718186597
+    second: Rocas 1_53
+  - first:
+      213: -6138761253578286569
+    second: Rocas 1_54
+  - first:
+      213: 7949681508006116566
+    second: Rocas 1_55
+  - first:
+      213: 6372241966229603746
+    second: Rocas 1_56
+  - first:
+      213: 6848814338203124758
+    second: Rocas 1_57
+  - first:
+      213: 4683138949311169340
+    second: Rocas 1_58
+  - first:
+      213: 5497028408534827917
+    second: Rocas 1_59
+  - first:
+      213: -8927988200208578086
+    second: Rocas 1_60
+  - first:
+      213: 4976121932177006093
+    second: Rocas 1_61
+  - first:
+      213: 7626616673540719259
+    second: Rocas 1_62
+  - first:
+      213: -5291331985095855712
+    second: Rocas 1_63
+  - first:
+      213: -3137248513385321618
+    second: Rocas 1_64
+  - first:
+      213: 2240747958113547137
+    second: Rocas 1_65
+  - first:
+      213: -1575262379361175629
+    second: Rocas 1_66
+  - first:
+      213: -7082962398635399686
+    second: Rocas 1_67
+  - first:
+      213: -930271210176480966
+    second: Rocas 1_68
+  - first:
+      213: 3272794649498464396
+    second: Rocas 1_69
+  - first:
+      213: -2134479829001923466
+    second: Rocas 1_70
+  - first:
+      213: -5531072576094276394
+    second: Rocas 1_71
+  - first:
+      213: 2169570050650817606
+    second: Rocas 1_72
+  - first:
+      213: -3954712321057148684
+    second: Rocas 1_73
+  - first:
+      213: -142831588689835989
+    second: Rocas 1_74
+  - first:
+      213: 2250635807711207552
+    second: Rocas 1_75
+  - first:
+      213: 7954477144909642487
+    second: Rocas 1_76
+  - first:
+      213: -4205396112310058971
+    second: Rocas 1_77
+  - first:
+      213: 3434479713427461757
+    second: Rocas 1_78
+  - first:
+      213: -1381480692358126972
+    second: Rocas 1_79
+  - first:
+      213: -3356630620005918193
+    second: Rocas 1_80
+  - first:
+      213: -4716029352324209085
+    second: Rocas 1_81
+  - first:
+      213: -2980501212821657883
+    second: Rocas 1_82
+  - first:
+      213: -2351445729559855639
+    second: Rocas 1_83
+  - first:
+      213: -8491839197966620103
+    second: Rocas 1_84
+  - first:
+      213: 34175628402921299
+    second: Rocas 1_85
+  - first:
+      213: -4992808564916075923
+    second: Rocas 1_86
+  - first:
+      213: -5522080976440086703
+    second: Rocas 1_87
+  - first:
+      213: 4721960911542735138
+    second: Rocas 1_88
+  - first:
+      213: 6398214220529153411
+    second: Rocas 1_89
+  - first:
+      213: 8717531116716897098
+    second: Rocas 1_90
+  - first:
+      213: -5589971616476284756
+    second: Rocas 1_91
+  - first:
+      213: 4345640143604456800
+    second: Rocas 1_92
+  - first:
+      213: -1482530322069516564
+    second: Rocas 1_93
+  - first:
+      213: -700164357097481643
+    second: Rocas 1_94
+  - first:
+      213: -6834532342518495045
+    second: Rocas 1_95
+  - first:
+      213: -6085866257738830069
+    second: Rocas 1_96
+  - first:
+      213: -9089528579670010065
+    second: Rocas 1_97
+  - first:
+      213: 6749808861077283200
+    second: Rocas 1_98
+  - first:
+      213: -5464388726247417429
+    second: Rocas 1_99
+  - first:
+      213: -2345112527712892171
+    second: Rocas 1_100
+  - first:
+      213: -4733005296968277801
+    second: Rocas 1_101
+  - first:
+      213: 2231177214418914626
+    second: Rocas 1_102
+  - first:
+      213: -4217110604585680548
+    second: Rocas 1_103
+  - first:
+      213: -1487152705525029281
+    second: Rocas 1_104
+  - first:
+      213: 8074727665865898168
+    second: Rocas 1_105
+  - first:
+      213: -3701150469790150310
+    second: Rocas 1_106
+  - first:
+      213: -90808524756388448
+    second: Rocas 1_107
+  - first:
+      213: -9166126906428055300
+    second: Rocas 1_108
+  - first:
+      213: 6395197970816878068
+    second: Rocas 1_109
+  - first:
+      213: -8019852236441479446
+    second: Rocas 1_110
+  - first:
+      213: 8761763014092440733
+    second: Rocas 1_111
+  - first:
+      213: 404192388617232838
+    second: Rocas 1_112
+  - first:
+      213: -3849217121135155437
+    second: Rocas 1_113
+  - first:
+      213: 6592522044910667872
+    second: Rocas 1_114
+  - first:
+      213: 42778514091157946
+    second: Rocas 1_115
+  - first:
+      213: -8848908314957801615
+    second: Rocas 1_116
+  - first:
+      213: -9027893195021592687
+    second: Rocas 1_117
+  - first:
+      213: -8012954415622571594
+    second: Rocas 1_118
+  - first:
+      213: -2737272614131022696
+    second: Rocas 1_119
+  - first:
+      213: -2662237231391711345
+    second: Rocas 1_120
+  - first:
+      213: 1847247095634646523
+    second: Rocas 1_121
+  - first:
+      213: -6379685291653281067
+    second: Rocas 1_122
+  - first:
+      213: 4074652947509841674
+    second: Rocas 1_123
+  - first:
+      213: -2947325371343830454
+    second: Rocas 1_124
+  - first:
+      213: -7806209463089299861
+    second: Rocas 1_125
+  - first:
+      213: -2932524242680632782
+    second: Rocas 1_126
+  - first:
+      213: -4329672450596421111
+    second: Rocas 1_127
+  - first:
+      213: 3905831772500218712
+    second: Rocas 1_128
+  - first:
+      213: -7340964729348805878
+    second: Rocas 1_129
+  - first:
+      213: 388343929429888185
+    second: Rocas 1_130
+  - first:
+      213: -7144304215406513960
+    second: Rocas 1_131
+  - first:
+      213: 8671658741895351975
+    second: Rocas 1_132
+  - first:
+      213: 2637755530100256766
+    second: Rocas 1_133
+  - first:
+      213: -2346886996217536640
+    second: Rocas 1_134
+  - first:
+      213: 7819787652780490837
+    second: Rocas 1_135
+  - first:
+      213: 6804487314397048749
+    second: Rocas 1_136
+  - first:
+      213: -5666430548693868420
+    second: Rocas 1_137
+  - first:
+      213: 4799535673869250148
+    second: Rocas 1_138
+  - first:
+      213: 3251424283821394691
+    second: Rocas 1_139
+  - first:
+      213: 7101309925405490086
+    second: Rocas 1_140
+  - first:
+      213: 9188935239613291928
+    second: Rocas 1_141
+  - first:
+      213: -567862389820644081
+    second: Rocas 1_142
+  - first:
+      213: -5596353449618746727
+    second: Rocas 1_143
+  - first:
+      213: -8490234921533295318
+    second: Rocas 1_144
+  - first:
+      213: 8072961626363947377
+    second: Rocas 1_145
+  - first:
+      213: -2572515260591666388
+    second: Rocas 1_146
+  - first:
+      213: -2983088217654408196
+    second: Rocas 1_147
+  - first:
+      213: 4977699658303759180
+    second: Rocas 1_148
+  - first:
+      213: 1596549669685716563
+    second: Rocas 1_149
+  - first:
+      213: -359590757679122416
+    second: Rocas 1_150
+  - first:
+      213: 2541221973565609407
+    second: Rocas 1_151
+  - first:
+      213: -1321694683404399614
+    second: Rocas 1_152
+  - first:
+      213: 1125446148210403295
+    second: Rocas 1_153
+  - first:
+      213: 1088880088054549350
+    second: Rocas 1_154
+  - first:
+      213: -8605465310855219207
+    second: Rocas 1_155
+  - first:
+      213: 2461886875958079628
+    second: Rocas 1_156
+  - first:
+      213: -2269064385741643367
+    second: Rocas 1_157
+  - first:
+      213: -2424706417078159376
+    second: Rocas 1_158
+  - first:
+      213: -7479566050653159283
+    second: Rocas 1_159
+  - first:
+      213: 7952095846801146002
+    second: Rocas 1_160
+  - first:
+      213: -8376435326721258841
+    second: Rocas 1_161
+  - first:
+      213: 8527484198067400566
+    second: Rocas 1_162
+  - first:
+      213: 500691845630043549
+    second: Rocas 1_163
+  - first:
+      213: -7726515645007423298
+    second: Rocas 1_164
+  - first:
+      213: -7847229767949961140
+    second: Rocas 1_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rocas 1_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1444
+        width: 658
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8cc69331908920800000000000000
+      internalID: 2990549803333357545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1435
+        width: 407
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0d154000e948c0800000000000000
+      internalID: -4014431301059932305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_2
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1432
+        width: 317
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906201a9dc48d40e0800000000000000
+      internalID: -2284023417419061751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_3
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1669
+        width: 375
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91adb0990dc0b23c0800000000000000
+      internalID: -4383395722254624231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_4
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1650
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4679b2df59337f30800000000000000
+      internalID: 4572061130431231566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1443
+        width: 264
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0314fbd615ecbca0800000000000000
+      internalID: -5999668717222096118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1059
+        width: 569
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450db7c00d34181c0800000000000000
+      internalID: -4503243591552085932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1051
+        width: 673
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1730228c01bde2a00800000000000000
+      internalID: 733764654431601521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_8
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1050
+        width: 505
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e25546251457bc0800000000000000
+      internalID: -3786048089608606194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 869
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b764fda8d847ba0800000000000000
+      internalID: -6092088768334496970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 858
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a298ae5c1cde2610800000000000000
+      internalID: 1598456932168405668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 804
+        width: 207
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a75a9a8b2982f20800000000000000
+      internalID: 3398127240668871210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 805
+        width: 218
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710ab0675d91fac0800000000000000
+      internalID: -3823101610050322053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 808
+        width: 221
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c7dedd7db4e24b0800000000000000
+      internalID: -5463345907440452483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_14
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 811
+        width: 233
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2e01bd7a0728870800000000000000
+      internalID: 8683626897760903926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_15
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 815
+        width: 199
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e7166e8e0812ff0800000000000000
+      internalID: -62627182020559309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_16
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 804
+        width: 201
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca36c4271cc933770800000000000000
+      internalID: 8589381268985897900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 831
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95e957ae8d031310800000000000000
+      internalID: 1374457217622336927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 821
+        width: 57
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42376970d170f340800000000000000
+      internalID: 4895537935155671630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 551
+        width: 214
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca33dc894d3c070800000000000000
+      internalID: 8125571905449340108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 545
+        width: 199
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eb01832fff5eab0800000000000000
+      internalID: -4979292397200425320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 551
+        width: 197
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a70dbd0f26cbb9a0800000000000000
+      internalID: -6216156955258583135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 551
+        width: 223
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83756989f85da0c60800000000000000
+      internalID: 7785269718580352824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_23
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 624
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830d6dd7e83301b0800000000000000
+      internalID: -5691642935562665083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_24
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 657
+        width: 92
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc98f19124cece0800000000000000
+      internalID: -1374651110584103878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_25
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 592
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81864108406e51a40800000000000000
+      internalID: 5338425840320669720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_26
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 631
+        width: 242
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2013d57334e79b0800000000000000
+      internalID: -5080549424561585467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_27
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 559
+        width: 257
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fe79edee3bbc20800000000000000
+      internalID: 3223239149859304752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 619
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc71dfd43b560a0800000000000000
+      internalID: -6888902907453255716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_29
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 636
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df136f4077ee24e0800000000000000
+      internalID: -2004410314579042350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_30
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 598
+        width: 91
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3af19391568780800000000000000
+      internalID: -8681161537458913543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_31
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 562
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27cfc4bd8d086840800000000000000
+      internalID: 5217435070583785259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_32
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 596
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f574287be1d320800000000000000
+      internalID: 2581102962700317546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_33
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 561
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949c3c59048f85f30800000000000000
+      internalID: 4564671178614229321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_34
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 549
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311aefb39551beda0800000000000000
+      internalID: -5914610212618198765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_35
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 557
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd384dc90723a110800000000000000
+      internalID: 1270902442900864475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_36
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 550
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afcba9f04e651cb0800000000000000
+      internalID: -4893884194722426970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 308
+        width: 252
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faa9f895c0f1eab0800000000000000
+      internalID: -4980434981429335304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_38
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 321
+        width: 252
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e1539a957a7a60800000000000000
+      internalID: 7672574221936093626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_39
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 332
+        width: 253
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc72ddc9f1a0c2f0800000000000000
+      internalID: -954585026730492717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_40
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 335
+        width: 190
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25cd4af7c0806e80800000000000000
+      internalID: -8187402526173313750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_41
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 410
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f110890d035ae6ea0800000000000000
+      internalID: -5877578834595282657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_42
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 338
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d45e18f70316c10800000000000000
+      internalID: 2044969030001184065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_43
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 434
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d184d6826f24060800000000000000
+      internalID: 6936377029596552451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_44
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 368
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf12a80073d8a240800000000000000
+      internalID: 4803321480725274554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 415
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce12966029b0c7160800000000000000
+      internalID: 7024502240591815148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_46
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 419
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279e8651494816aa0800000000000000
+      internalID: -6169504242971645582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_47
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 383
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c309b75c2ac78f690800000000000000
+      internalID: -7568162135256362948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_48
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 415
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e083e7452affdd10800000000000000
+      internalID: 2152714184933212385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_49
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 419
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c4ef20eae1c0b40800000000000000
+      internalID: 5407730985288486013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_50
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 415
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa2bd80bd39500d0800000000000000
+      internalID: -3457194569981285646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_51
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 404
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c1da510e40d50b0800000000000000
+      internalID: -5738424989717291921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_52
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 413
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ec72a9edf974fa0800000000000000
+      internalID: -5816504615307850094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_53
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 393
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3e6a29cbc2c950800000000000000
+      internalID: 6467956079718186597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_54
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 382
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad8871a2dbecaa0800000000000000
+      internalID: -6138761253578286569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_55
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 376
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc323a5631f25e60800000000000000
+      internalID: 7949681508006116566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_56
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 373
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c3f38e40ce6850800000000000000
+      internalID: 6372241966229603746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_57
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 360
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140331aa50eb0f50800000000000000
+      internalID: 6848814338203124758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_58
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 375
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330d73ef0addf040800000000000000
+      internalID: 4683138949311169340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_59
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 370
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8303fa863e594c40800000000000000
+      internalID: 5497028408534827917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_60
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 370
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad940bfc80a691480800000000000000
+      internalID: -8927988200208578086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_61
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 361
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ed07e588cbe0540800000000000000
+      internalID: 4976121932177006093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_62
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 359
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b924770057f27d960800000000000000
+      internalID: 7626616673540719259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_63
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 354
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1f2bf18996196b0800000000000000
+      internalID: -5291331985095855712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_64
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 351
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bab8359114674d0800000000000000
+      internalID: -3137248513385321618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_65
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 353
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1833a8a556cb81f10800000000000000
+      internalID: 2240747958113547137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_66
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 340
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7f32a463b832ae0800000000000000
+      internalID: -1575262379361175629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_67
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 331
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af563efb93344bd90800000000000000
+      internalID: -7082962398635399686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 308
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3978ac53430713f0800000000000000
+      internalID: -930271210176480966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_69
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 318
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80b72ac46d4b6d20800000000000000
+      internalID: 3272794649498464396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_70
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 331
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6749a1c87edc062e0800000000000000
+      internalID: -2134479829001923466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_71
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 315
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4fef20ccead33b0800000000000000
+      internalID: -5531072576094276394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 322
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6444e58577cdb1e10800000000000000
+      internalID: 2169570050650817606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_73
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 316
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03782d81a0e19c0800000000000000
+      internalID: -3954712321057148684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_74
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 330
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2800754d6f840ef0800000000000000
+      internalID: -142831588689835989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_75
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 320
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080a66db75ddb3f10800000000000000
+      internalID: 2250635807711207552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_76
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 332
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa7d4491daf36e60800000000000000
+      internalID: 7954477144909642487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_77
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 316
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52043f9548e63a5c0800000000000000
+      internalID: -4205396112310058971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_78
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 331
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76112b4a19b9af20800000000000000
+      internalID: 3434479713427461757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 300
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482eee331aef3dce0800000000000000
+      internalID: -1381480692358126972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_80
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 304
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a195c3c3ada61d0800000000000000
+      internalID: -3356630620005918193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_81
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 301
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34666686a4c4d8eb0800000000000000
+      internalID: -4716029352324209085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_82
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 244
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e42530f123a6d0800000000000000
+      internalID: -2980501212821657883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_83
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 75
+        width: 240
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb9f4419cfd5fd0800000000000000
+      internalID: -2351445729559855639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_84
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 76
+        width: 242
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a267bbd3de62a80800000000000000
+      internalID: -8491839197966620103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_85
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 120
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f8eee8d8a697000800000000000000
+      internalID: 34175628402921299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_86
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 139
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6246a0301bf5bab0800000000000000
+      internalID: -4992808564916075923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_87
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 128
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fa852fb90ad53b0800000000000000
+      internalID: -5522080976440086703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_88
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 132
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221d8c75e66c78140800000000000000
+      internalID: 4721960911542735138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_89
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 157
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3853e733fe50bc850800000000000000
+      internalID: 6398214220529153411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_90
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 145
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43335afc54eaf870800000000000000
+      internalID: 8717531116716897098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_91
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 135
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca83a678e6e6c62b0800000000000000
+      internalID: -5589971616476284756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_92
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 156
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d9839bfa0de4c30800000000000000
+      internalID: 4345640143604456800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_93
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 153
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee0d40e68efc6be0800000000000000
+      internalID: -1482530322069516564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_94
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 131
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a90d21a348846f0800000000000000
+      internalID: -700164357097481643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_95
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 155
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8444e9b0dd621a0800000000000000
+      internalID: -6834532342518495045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_96
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 153
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fe0f402e8aa8ba0800000000000000
+      internalID: -6085866257738830069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_97
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 139
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2712094ae18bd180800000000000000
+      internalID: -9089528579670010065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_98
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 131
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ab4aa5632cad50800000000000000
+      internalID: 6749808861077283200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_99
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 130
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99f51b7679a24b0800000000000000
+      internalID: -5464388726247417429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_100
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 135
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faca5bb49c747fd0800000000000000
+      internalID: -2345112527712892171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_101
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 140
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e92a42ccf05eb0800000000000000
+      internalID: -4733005296968277801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_102
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 131
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d8260fadbb6fe10800000000000000
+      internalID: 2231177214418914626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_103
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 143
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5143239f30d975c0800000000000000
+      internalID: -4217110604585680548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_104
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 142
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f566b6c5e729c5be0800000000000000
+      internalID: -1487152705525029281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_105
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8b4f5c7023f0070800000000000000
+      internalID: 8074727665865898168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_106
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5153ebd14fd2acc0800000000000000
+      internalID: -3701150469790150310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_107
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 98
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5715bb0226dbef0800000000000000
+      internalID: -90808524756388448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_108
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 123
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0a43094206bc080800000000000000
+      internalID: -9166126906428055300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_109
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 123
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5c6d6dbae40c850800000000000000
+      internalID: 6395197970816878068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_110
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 128
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae698c7c1e2c3b090800000000000000
+      internalID: -8019852236441479446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_111
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 119
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94c22d1a09089970800000000000000
+      internalID: 8761763014092440733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_112
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 123
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1627006dafb9500800000000000000
+      internalID: 404192388617232838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_113
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 133
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317236f1c65d49ac0800000000000000
+      internalID: -3849217121135155437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_114
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 123
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06805d40fd75d7b50800000000000000
+      internalID: 6592522044910667872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_115
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 109
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab92c68f4daf79000800000000000000
+      internalID: 42778514091157946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_116
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 109
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17790f465cc523580800000000000000
+      internalID: -8848908314957801615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_117
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 108
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197529098fa76b280800000000000000
+      internalID: -9027893195021592687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_118
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 107
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b93b67d9644cc090800000000000000
+      internalID: -8012954415622571594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_119
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 102
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c0556f01430ad0800000000000000
+      internalID: -2737272614131022696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_120
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 111
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd31bd755dd0bd0800000000000000
+      internalID: -2662237231391711345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_121
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 104
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5dca3427db2a910800000000000000
+      internalID: 1847247095634646523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_122
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 110
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dac83c370ec677a0800000000000000
+      internalID: -6379685291653281067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_123
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 108
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f825f64431c8830800000000000000
+      internalID: 4074652947509841674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_124
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 102
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a420e8bb03ff817d0800000000000000
+      internalID: -2947325371343830454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_125
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ef4463ad5caa390800000000000000
+      internalID: -7806209463089299861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_126
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 97
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aaccb0db49d47d0800000000000000
+      internalID: -2932524242680632782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_127
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 110
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c76488d9e9e3c0800000000000000
+      internalID: -4329672450596421111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_128
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 106
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535f489d4d443630800000000000000
+      internalID: 3905831772500218712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_129
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 103
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b2e760977af1a90800000000000000
+      internalID: -7340964729348805878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_130
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 115
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc095c0fbca36500800000000000000
+      internalID: 388343929429888185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_131
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 109
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d07e511b255adc90800000000000000
+      internalID: -7144304215406513960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_132
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 110
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae451c6eabe75870800000000000000
+      internalID: 8671658741895351975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_133
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa2ffdda03b9420800000000000000
+      internalID: 2637755530100256766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_134
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 93
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f587616be2e6fd0800000000000000
+      internalID: -2346886996217536640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_135
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 100
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55087fe6077758c60800000000000000
+      internalID: 7819787652780490837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_136
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 105
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafa94529256e6e50800000000000000
+      internalID: 6804487314397048749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_137
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 104
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702ea0207bcc51b0800000000000000
+      internalID: -5666430548693868420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_138
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 101
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eaacf24406b9240800000000000000
+      internalID: 4799535673869250148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_139
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bc04bc8216f1d20800000000000000
+      internalID: 3251424283821394691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_140
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abffb7b0cbec8260800000000000000
+      internalID: 7101309925405490086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_141
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 85
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d18355ae7a58f70800000000000000
+      internalID: 9188935239613291928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_142
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 82
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05af654a2c8e18f0800000000000000
+      internalID: -567862389820644081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_143
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 85
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99251f53032c552b0800000000000000
+      internalID: -5596353449618746727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_144
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 75
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2534627250ac2a80800000000000000
+      internalID: -8490234921533295318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_145
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 83
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17968c8a3dbe80070800000000000000
+      internalID: 8072961626363947377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_146
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 87
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b892110079c4cd0800000000000000
+      internalID: -2572515260591666388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_147
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 91
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb4e053211f996d0800000000000000
+      internalID: -2983088217654408196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_148
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 93
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4367cb5777541540800000000000000
+      internalID: 4977699658303759180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_149
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 86
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35662e73775182610800000000000000
+      internalID: 1596549669685716563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_150
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 89
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018b5007c1a720bf0800000000000000
+      internalID: -359590757679122416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_151
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 91
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb59bc5cbeb344320800000000000000
+      internalID: 2541221973565609407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_152
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 93
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c882620b568ade0800000000000000
+      internalID: -1321694683404399614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_153
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7a9e51f436e9f00800000000000000
+      internalID: 1125446148210403295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_154
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 61
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcc73cbaa7c1f00800000000000000
+      internalID: 1088880088054549350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_155
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 66
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7378bb4ee339880800000000000000
+      internalID: -8605465310855219207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_156
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 72
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c807daee1116a2220800000000000000
+      internalID: 2461886875958079628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_157
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 73
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991216396f9a280e0800000000000000
+      internalID: -2269064385741643367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_158
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 73
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7327d3c56b95ed0800000000000000
+      internalID: -2424706417078159376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_159
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 79
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804fbc2e4e333890800000000000000
+      internalID: -7479566050653159283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_160
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 72
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29001786a058b5e60800000000000000
+      internalID: 7952095846801146002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_161
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 77
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa0fba537ce0cb80800000000000000
+      internalID: -8376435326721258841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_162
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 74
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f609592b5b75670800000000000000
+      internalID: 8527484198067400566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_163
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 75
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95a6b0b490d2f600800000000000000
+      internalID: 500691845630043549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_164
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb895db25f6e5c490800000000000000
+      internalID: -7726515645007423298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocas 1_165
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 60
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48b87a3a1a091390800000000000000
+      internalID: -7847229767949961140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rocas 1_0: 2990549803333357545
+      Rocas 1_1: -4014431301059932305
+      Rocas 1_10: 1598456932168405668
+      Rocas 1_100: -2345112527712892171
+      Rocas 1_101: -4733005296968277801
+      Rocas 1_102: 2231177214418914626
+      Rocas 1_103: -4217110604585680548
+      Rocas 1_104: -1487152705525029281
+      Rocas 1_105: 8074727665865898168
+      Rocas 1_106: -3701150469790150310
+      Rocas 1_107: -90808524756388448
+      Rocas 1_108: -9166126906428055300
+      Rocas 1_109: 6395197970816878068
+      Rocas 1_11: 3398127240668871210
+      Rocas 1_110: -8019852236441479446
+      Rocas 1_111: 8761763014092440733
+      Rocas 1_112: 404192388617232838
+      Rocas 1_113: -3849217121135155437
+      Rocas 1_114: 6592522044910667872
+      Rocas 1_115: 42778514091157946
+      Rocas 1_116: -8848908314957801615
+      Rocas 1_117: -9027893195021592687
+      Rocas 1_118: -8012954415622571594
+      Rocas 1_119: -2737272614131022696
+      Rocas 1_12: -3823101610050322053
+      Rocas 1_120: -2662237231391711345
+      Rocas 1_121: 1847247095634646523
+      Rocas 1_122: -6379685291653281067
+      Rocas 1_123: 4074652947509841674
+      Rocas 1_124: -2947325371343830454
+      Rocas 1_125: -7806209463089299861
+      Rocas 1_126: -2932524242680632782
+      Rocas 1_127: -4329672450596421111
+      Rocas 1_128: 3905831772500218712
+      Rocas 1_129: -7340964729348805878
+      Rocas 1_13: -5463345907440452483
+      Rocas 1_130: 388343929429888185
+      Rocas 1_131: -7144304215406513960
+      Rocas 1_132: 8671658741895351975
+      Rocas 1_133: 2637755530100256766
+      Rocas 1_134: -2346886996217536640
+      Rocas 1_135: 7819787652780490837
+      Rocas 1_136: 6804487314397048749
+      Rocas 1_137: -5666430548693868420
+      Rocas 1_138: 4799535673869250148
+      Rocas 1_139: 3251424283821394691
+      Rocas 1_14: 8683626897760903926
+      Rocas 1_140: 7101309925405490086
+      Rocas 1_141: 9188935239613291928
+      Rocas 1_142: -567862389820644081
+      Rocas 1_143: -5596353449618746727
+      Rocas 1_144: -8490234921533295318
+      Rocas 1_145: 8072961626363947377
+      Rocas 1_146: -2572515260591666388
+      Rocas 1_147: -2983088217654408196
+      Rocas 1_148: 4977699658303759180
+      Rocas 1_149: 1596549669685716563
+      Rocas 1_15: -62627182020559309
+      Rocas 1_150: -359590757679122416
+      Rocas 1_151: 2541221973565609407
+      Rocas 1_152: -1321694683404399614
+      Rocas 1_153: 1125446148210403295
+      Rocas 1_154: 1088880088054549350
+      Rocas 1_155: -8605465310855219207
+      Rocas 1_156: 2461886875958079628
+      Rocas 1_157: -2269064385741643367
+      Rocas 1_158: -2424706417078159376
+      Rocas 1_159: -7479566050653159283
+      Rocas 1_16: 8589381268985897900
+      Rocas 1_160: 7952095846801146002
+      Rocas 1_161: -8376435326721258841
+      Rocas 1_162: 8527484198067400566
+      Rocas 1_163: 500691845630043549
+      Rocas 1_164: -7726515645007423298
+      Rocas 1_165: -7847229767949961140
+      Rocas 1_17: 1374457217622336927
+      Rocas 1_18: 4895537935155671630
+      Rocas 1_19: 8125571905449340108
+      Rocas 1_2: -2284023417419061751
+      Rocas 1_20: -4979292397200425320
+      Rocas 1_21: -6216156955258583135
+      Rocas 1_22: 7785269718580352824
+      Rocas 1_23: -5691642935562665083
+      Rocas 1_24: -1374651110584103878
+      Rocas 1_25: 5338425840320669720
+      Rocas 1_26: -5080549424561585467
+      Rocas 1_27: 3223239149859304752
+      Rocas 1_28: -6888902907453255716
+      Rocas 1_29: -2004410314579042350
+      Rocas 1_3: -4383395722254624231
+      Rocas 1_30: -8681161537458913543
+      Rocas 1_31: 5217435070583785259
+      Rocas 1_32: 2581102962700317546
+      Rocas 1_33: 4564671178614229321
+      Rocas 1_34: -5914610212618198765
+      Rocas 1_35: 1270902442900864475
+      Rocas 1_36: -4893884194722426970
+      Rocas 1_37: -4980434981429335304
+      Rocas 1_38: 7672574221936093626
+      Rocas 1_39: -954585026730492717
+      Rocas 1_4: 4572061130431231566
+      Rocas 1_40: -8187402526173313750
+      Rocas 1_41: -5877578834595282657
+      Rocas 1_42: 2044969030001184065
+      Rocas 1_43: 6936377029596552451
+      Rocas 1_44: 4803321480725274554
+      Rocas 1_45: 7024502240591815148
+      Rocas 1_46: -6169504242971645582
+      Rocas 1_47: -7568162135256362948
+      Rocas 1_48: 2152714184933212385
+      Rocas 1_49: 5407730985288486013
+      Rocas 1_5: -5999668717222096118
+      Rocas 1_50: -3457194569981285646
+      Rocas 1_51: -5738424989717291921
+      Rocas 1_52: -5816504615307850094
+      Rocas 1_53: 6467956079718186597
+      Rocas 1_54: -6138761253578286569
+      Rocas 1_55: 7949681508006116566
+      Rocas 1_56: 6372241966229603746
+      Rocas 1_57: 6848814338203124758
+      Rocas 1_58: 4683138949311169340
+      Rocas 1_59: 5497028408534827917
+      Rocas 1_6: -4503243591552085932
+      Rocas 1_60: -8927988200208578086
+      Rocas 1_61: 4976121932177006093
+      Rocas 1_62: 7626616673540719259
+      Rocas 1_63: -5291331985095855712
+      Rocas 1_64: -3137248513385321618
+      Rocas 1_65: 2240747958113547137
+      Rocas 1_66: -1575262379361175629
+      Rocas 1_67: -7082962398635399686
+      Rocas 1_68: -930271210176480966
+      Rocas 1_69: 3272794649498464396
+      Rocas 1_7: 733764654431601521
+      Rocas 1_70: -2134479829001923466
+      Rocas 1_71: -5531072576094276394
+      Rocas 1_72: 2169570050650817606
+      Rocas 1_73: -3954712321057148684
+      Rocas 1_74: -142831588689835989
+      Rocas 1_75: 2250635807711207552
+      Rocas 1_76: 7954477144909642487
+      Rocas 1_77: -4205396112310058971
+      Rocas 1_78: 3434479713427461757
+      Rocas 1_79: -1381480692358126972
+      Rocas 1_8: -3786048089608606194
+      Rocas 1_80: -3356630620005918193
+      Rocas 1_81: -4716029352324209085
+      Rocas 1_82: -2980501212821657883
+      Rocas 1_83: -2351445729559855639
+      Rocas 1_84: -8491839197966620103
+      Rocas 1_85: 34175628402921299
+      Rocas 1_86: -4992808564916075923
+      Rocas 1_87: -5522080976440086703
+      Rocas 1_88: 4721960911542735138
+      Rocas 1_89: 6398214220529153411
+      Rocas 1_9: -6092088768334496970
+      Rocas 1_90: 8717531116716897098
+      Rocas 1_91: -5589971616476284756
+      Rocas 1_92: 4345640143604456800
+      Rocas 1_93: -1482530322069516564
+      Rocas 1_94: -700164357097481643
+      Rocas 1_95: -6834532342518495045
+      Rocas 1_96: -6085866257738830069
+      Rocas 1_97: -9089528579670010065
+      Rocas 1_98: 6749808861077283200
+      Rocas 1_99: -5464388726247417429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
