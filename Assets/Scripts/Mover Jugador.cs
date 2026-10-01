@@ -13,13 +13,13 @@ public class MoverJugador : MonoBehaviour
     [SerializeField] private Collider2D hitbox1;
     [SerializeField] private Collider2D hitbox2;
 
-    // Funciones para el collider 1
-    public void EnableHitbox1() => hitbox1.enabled = true;
-    public void DisableHitbox1() => hitbox1.enabled = false;
+    // Funciones para el collider 1 (opcionales, usadas por animaciones)
+    public void EnableHitbox1()  { if (hitbox1 != null) hitbox1.enabled = true; }
+    public void DisableHitbox1() { if (hitbox1 != null) hitbox1.enabled = false; }
 
     // Funciones para el collider 2
-    public void EnableHitbox2() => hitbox2.enabled = true;
-    public void DisableHitbox2() => hitbox2.enabled = false;
+    public void EnableHitbox2()  { if (hitbox2 != null) hitbox2.enabled = true; }
+    public void DisableHitbox2() { if (hitbox2 != null) hitbox2.enabled = false; }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

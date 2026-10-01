@@ -54,7 +54,7 @@ public class PantallaMuerte : MonoBehaviour
         textMuerte = new GameObject("TextoMuerte");
         textMuerte.transform.SetParent(canvasGO.transform, false);
         TMPro.TextMeshProUGUI tmp = textMuerte.AddComponent<TMPro.TextMeshProUGUI>();
-        tmp.text = "☠ HAS MUERTO ☠";
+        tmp.text = "** HAS MUERTO **";
         tmp.fontSize = 80;
         tmp.color = new Color(1f, 0.1f, 0.1f, 0f); // rojo, empieza transparente
         tmp.alignment = TMPro.TextAlignmentOptions.Center;
@@ -96,7 +96,7 @@ public class PantallaMuerte : MonoBehaviour
         GameObject textoBtn = new GameObject("TextoBoton");
         textoBtn.transform.SetParent(botonReinicio.transform, false);
         TMPro.TextMeshProUGUI tmpBtn = textoBtn.AddComponent<TMPro.TextMeshProUGUI>();
-        tmpBtn.text = "↩ REINTENTAR";
+        tmpBtn.text = "REINTENTAR";
         tmpBtn.fontSize = 30;
         tmpBtn.color = Color.white;
         tmpBtn.alignment = TMPro.TextAlignmentOptions.Center;
